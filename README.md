@@ -11,8 +11,10 @@ A program that uses open weather API to give current weather report of your loca
 
 [Demo App Weather]
 
+![Demo App Weather](https://github.com/AL-Morchid-Chaymae/The-Weather-Web-App/assets/120697707/530ae390-9f7d-4c90-a4c7-1de169c8ce8a)
+
 
 # Application 
 
-[Weather-Web-App]()![Demo App Weather](https://github.com/AL-Morchid-Chaymae/The-Weather-Web-App/assets/120697707/530ae390-9f7d-4c90-a4c7-1de169c8ce8a)
+[Weather-Web-App]()
 
